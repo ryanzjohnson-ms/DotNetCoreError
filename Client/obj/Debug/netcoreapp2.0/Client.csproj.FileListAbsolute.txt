@@ -1,0 +1,11 @@
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\obj\Debug\netcoreapp2.0\Client.pdb
+C:\Users\ryjoh\source\oneweek\JustGonnaSendIT\Client\obj\Debug\netcoreapp2.0\Client.csprojResolveAssemblyReference.cache
